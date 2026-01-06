@@ -9,4 +9,4 @@ router.post("/register", registerUser);
 // Login existing user
 router.post("/login", loginUser);
 
-export default router;
+export default router;  // ✅ default export
